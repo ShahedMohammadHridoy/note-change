@@ -1,0 +1,15 @@
+D:\note-change\bin\Debug\net6.0\note-change.exe
+D:\note-change\bin\Debug\net6.0\note-change.deps.json
+D:\note-change\bin\Debug\net6.0\note-change.runtimeconfig.json
+D:\note-change\bin\Debug\net6.0\note-change.dll
+D:\note-change\bin\Debug\net6.0\ref\note-change.dll
+D:\note-change\bin\Debug\net6.0\note-change.pdb
+D:\note-change\obj\Debug\net6.0\note-change.csproj.AssemblyReference.cache
+D:\note-change\obj\Debug\net6.0\note-change.GeneratedMSBuildEditorConfig.editorconfig
+D:\note-change\obj\Debug\net6.0\note-change.AssemblyInfoInputs.cache
+D:\note-change\obj\Debug\net6.0\note-change.AssemblyInfo.cs
+D:\note-change\obj\Debug\net6.0\note-change.csproj.CoreCompileInputs.cache
+D:\note-change\obj\Debug\net6.0\note-change.dll
+D:\note-change\obj\Debug\net6.0\ref\note-change.dll
+D:\note-change\obj\Debug\net6.0\note-change.pdb
+D:\note-change\obj\Debug\net6.0\note-change.genruntimeconfig.cache
