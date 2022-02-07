@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace SoloLearn {
+namespace Program {
 	class Program {
 		static void Main(string[] args) {
 
@@ -69,6 +69,9 @@ namespace SoloLearn {
                   Console.WriteLine("  1 X "+result);
                   remainValue = remainValue-1*result;
             }
+
+            // //remain value
+            // Console.WriteLine("Remaining Amount: " + remainValue);
 		}
 	}
 }
